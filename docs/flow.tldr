@@ -1,0 +1,2941 @@
+{
+  "name": "New Document",
+  "fileHandle": null,
+  "document": {
+    "id": "doc",
+    "name": "New Document",
+    "version": 15.3,
+    "pages": {
+      "8da77900-f939-4604-373e-1c390dd73bb0": {
+        "id": "8da77900-f939-4604-373e-1c390dd73bb0",
+        "name": "@fe/printer",
+        "childIndex": 2,
+        "shapes": {
+          "c63108be-98b5-40ab-2085-354bdc72b68b": {
+            "id": "c63108be-98b5-40ab-2085-354bdc72b68b",
+            "type": "rectangle",
+            "name": "Rectangle",
+            "parentId": "8da77900-f939-4604-373e-1c390dd73bb0",
+            "childIndex": 1,
+            "point": [
+              2072,
+              786
+            ],
+            "size": [
+              429,
+              248
+            ],
+            "rotation": 0,
+            "style": {
+              "color": "black",
+              "size": "small",
+              "isFilled": false,
+              "dash": "draw",
+              "scale": 1,
+              "font": "script"
+            },
+            "label": "",
+            "labelPoint": [
+              0.5,
+              0.5
+            ]
+          },
+          "8e7186b1-daed-4523-32bd-cd7f75179394": {
+            "id": "8e7186b1-daed-4523-32bd-cd7f75179394",
+            "type": "text",
+            "name": "Text",
+            "parentId": "8da77900-f939-4604-373e-1c390dd73bb0",
+            "childIndex": 2,
+            "point": [
+              2097.5,
+              816
+            ],
+            "rotation": 0,
+            "text": "服务端",
+            "style": {
+              "color": "black",
+              "size": "small",
+              "isFilled": false,
+              "dash": "draw",
+              "scale": 1,
+              "font": "script",
+              "textAlign": "middle"
+            }
+          },
+          "42f17f44-6a60-41d4-318e-5e748d04913d": {
+            "id": "42f17f44-6a60-41d4-318e-5e748d04913d",
+            "type": "text",
+            "name": "Text",
+            "parentId": "8da77900-f939-4604-373e-1c390dd73bb0",
+            "childIndex": 3,
+            "point": [
+              2196,
+              903
+            ],
+            "rotation": 0,
+            "text": "存储模板字符串",
+            "style": {
+              "color": "black",
+              "size": "small",
+              "isFilled": false,
+              "dash": "draw",
+              "scale": 1,
+              "font": "script",
+              "textAlign": "middle"
+            }
+          },
+          "8152f81d-8270-4d82-3ef7-063fff33e44f": {
+            "id": "8152f81d-8270-4d82-3ef7-063fff33e44f",
+            "type": "rectangle",
+            "name": "Rectangle",
+            "parentId": "8da77900-f939-4604-373e-1c390dd73bb0",
+            "childIndex": 4,
+            "point": [
+              2075,
+              1174
+            ],
+            "size": [
+              428,
+              309.99
+            ],
+            "rotation": 0,
+            "style": {
+              "color": "black",
+              "size": "small",
+              "isFilled": false,
+              "dash": "draw",
+              "scale": 1,
+              "font": "script"
+            },
+            "label": "",
+            "labelPoint": [
+              0.5,
+              0.5
+            ]
+          },
+          "10524976-3f3a-412b-1554-0ad3e6b4db59": {
+            "id": "10524976-3f3a-412b-1554-0ad3e6b4db59",
+            "type": "text",
+            "name": "Text",
+            "parentId": "8da77900-f939-4604-373e-1c390dd73bb0",
+            "childIndex": 5,
+            "point": [
+              2105.1,
+              1202
+            ],
+            "rotation": 0,
+            "text": "商家端(MCT5)",
+            "style": {
+              "color": "black",
+              "size": "small",
+              "isFilled": false,
+              "dash": "draw",
+              "scale": 1,
+              "font": "script",
+              "textAlign": "middle"
+            }
+          },
+          "4cd756a2-bb51-4633-0c7c-be0365ecb606": {
+            "id": "4cd756a2-bb51-4633-0c7c-be0365ecb606",
+            "type": "text",
+            "name": "Text",
+            "parentId": "8da77900-f939-4604-373e-1c390dd73bb0",
+            "childIndex": 7,
+            "point": [
+              2164,
+              1305
+            ],
+            "rotation": 0,
+            "text": "2. 对DOM截图",
+            "style": {
+              "color": "black",
+              "size": "small",
+              "isFilled": false,
+              "dash": "draw",
+              "scale": 1,
+              "font": "script",
+              "textAlign": "middle"
+            }
+          },
+          "819f80cf-5ec2-4d2a-3b75-acd47a990d46": {
+            "id": "819f80cf-5ec2-4d2a-3b75-acd47a990d46",
+            "type": "text",
+            "name": "Text",
+            "parentId": "8da77900-f939-4604-373e-1c390dd73bb0",
+            "childIndex": 8,
+            "point": [
+              2164,
+              1348
+            ],
+            "rotation": 0,
+            "text": "3. 图片转为指令",
+            "style": {
+              "color": "black",
+              "size": "small",
+              "isFilled": false,
+              "dash": "draw",
+              "scale": 1,
+              "font": "script",
+              "textAlign": "middle"
+            }
+          },
+          "51d11151-985b-4e8a-3611-6fa178fd7c60": {
+            "id": "51d11151-985b-4e8a-3611-6fa178fd7c60",
+            "type": "text",
+            "name": "Text",
+            "parentId": "8da77900-f939-4604-373e-1c390dd73bb0",
+            "childIndex": 9,
+            "point": [
+              2163.5,
+              1393
+            ],
+            "rotation": 0,
+            "text": "4. 发送给打印机",
+            "style": {
+              "color": "black",
+              "size": "small",
+              "isFilled": false,
+              "dash": "draw",
+              "scale": 1,
+              "font": "script",
+              "textAlign": "middle"
+            }
+          },
+          "37f12e56-6084-47bf-2d90-5a33f5f1ea07": {
+            "id": "37f12e56-6084-47bf-2d90-5a33f5f1ea07",
+            "type": "arrow",
+            "name": "Arrow",
+            "parentId": "8da77900-f939-4604-373e-1c390dd73bb0",
+            "childIndex": 10,
+            "point": [
+              2303,
+              1047
+            ],
+            "rotation": 0,
+            "bend": 0,
+            "handles": {
+              "start": {
+                "id": "start",
+                "index": 0,
+                "point": [
+                  1,
+                  0
+                ],
+                "canBind": true
+              },
+              "end": {
+                "id": "end",
+                "index": 1,
+                "point": [
+                  0,
+                  107
+                ],
+                "canBind": true
+              },
+              "bend": {
+                "id": "bend",
+                "index": 2,
+                "point": [
+                  0.5,
+                  53.5
+                ]
+              }
+            },
+            "decorations": {
+              "end": "arrow"
+            },
+            "style": {
+              "color": "black",
+              "size": "small",
+              "isFilled": false,
+              "dash": "draw",
+              "scale": 1,
+              "font": "script"
+            },
+            "label": "",
+            "labelPoint": [
+              0.5,
+              0.5
+            ]
+          },
+          "aeadef4e-c5eb-4038-360d-696d78bca717": {
+            "id": "aeadef4e-c5eb-4038-360d-696d78bca717",
+            "type": "rectangle",
+            "name": "Rectangle",
+            "parentId": "8da77900-f939-4604-373e-1c390dd73bb0",
+            "childIndex": 11,
+            "point": [
+              2688,
+              1167
+            ],
+            "size": [
+              528.98,
+              248.54
+            ],
+            "rotation": 0,
+            "style": {
+              "color": "black",
+              "size": "small",
+              "isFilled": false,
+              "dash": "draw",
+              "scale": 1,
+              "font": "script"
+            },
+            "label": "",
+            "labelPoint": [
+              0.5,
+              0.5
+            ]
+          },
+          "f842b7af-935c-4448-2d39-e1609faaf2d6": {
+            "id": "f842b7af-935c-4448-2d39-e1609faaf2d6",
+            "type": "arrow",
+            "name": "Arrow",
+            "parentId": "8da77900-f939-4604-373e-1c390dd73bb0",
+            "childIndex": 12,
+            "point": [
+              2324,
+              1045,
+              0.5
+            ],
+            "rotation": 0,
+            "bend": 0,
+            "handles": {
+              "start": {
+                "id": "start",
+                "index": 0,
+                "point": [
+                  0,
+                  0
+                ],
+                "canBind": true
+              },
+              "end": {
+                "id": "end",
+                "index": 1,
+                "point": [
+                  567,
+                  99
+                ],
+                "canBind": true
+              },
+              "bend": {
+                "id": "bend",
+                "index": 2,
+                "point": [
+                  283.5,
+                  49.5
+                ]
+              }
+            },
+            "decorations": {
+              "end": "arrow"
+            },
+            "style": {
+              "color": "black",
+              "size": "small",
+              "isFilled": false,
+              "dash": "draw",
+              "scale": 1,
+              "font": "script"
+            },
+            "label": "",
+            "labelPoint": [
+              0.5,
+              0.5
+            ]
+          },
+          "b3e70e9a-1f1b-4b84-2d8c-d5e9558e3a6d": {
+            "id": "b3e70e9a-1f1b-4b84-2d8c-d5e9558e3a6d",
+            "type": "text",
+            "name": "Text",
+            "parentId": "8da77900-f939-4604-373e-1c390dd73bb0",
+            "childIndex": 13,
+            "point": [
+              2716,
+              1193
+            ],
+            "rotation": 0,
+            "text": "标签定制端",
+            "style": {
+              "color": "black",
+              "size": "small",
+              "isFilled": false,
+              "dash": "draw",
+              "scale": 1,
+              "font": "script",
+              "textAlign": "middle"
+            }
+          },
+          "3626e430-9309-47f5-1ad0-0930dde72d8b": {
+            "id": "3626e430-9309-47f5-1ad0-0930dde72d8b",
+            "type": "text",
+            "name": "Text",
+            "parentId": "8da77900-f939-4604-373e-1c390dd73bb0",
+            "childIndex": 14,
+            "point": [
+              2779.77,
+              1242.58
+            ],
+            "rotation": 0,
+            "text": "1. 预览模板样式",
+            "style": {
+              "color": "black",
+              "size": "small",
+              "isFilled": false,
+              "dash": "draw",
+              "scale": 1,
+              "font": "script",
+              "textAlign": "middle"
+            }
+          },
+          "6bc060a6-ff15-4a9f-0e1d-17bc6ac53eb0": {
+            "id": "6bc060a6-ff15-4a9f-0e1d-17bc6ac53eb0",
+            "type": "text",
+            "name": "Text",
+            "parentId": "8da77900-f939-4604-373e-1c390dd73bb0",
+            "childIndex": 15,
+            "point": [
+              2780.5,
+              1294
+            ],
+            "rotation": 0,
+            "text": "2. 编辑模板中的预设内容\n（编辑预设配置）",
+            "style": {
+              "color": "black",
+              "size": "small",
+              "isFilled": false,
+              "dash": "draw",
+              "scale": 1,
+              "font": "script",
+              "textAlign": "middle"
+            }
+          },
+          "9f68b256-27d0-48de-0f22-06495222ebf7": {
+            "id": "9f68b256-27d0-48de-0f22-06495222ebf7",
+            "type": "rectangle",
+            "name": "Rectangle",
+            "parentId": "8da77900-f939-4604-373e-1c390dd73bb0",
+            "childIndex": 22,
+            "point": [
+              2677.02,
+              702.05
+            ],
+            "size": [
+              708.05,
+              273.54
+            ],
+            "rotation": 0,
+            "style": {
+              "color": "yellow",
+              "size": "small",
+              "isFilled": false,
+              "dash": "draw",
+              "scale": 1,
+              "font": "script"
+            },
+            "label": "",
+            "labelPoint": [
+              0.5,
+              0.5
+            ]
+          },
+          "c9bbec61-467b-4ee2-10fb-d5ceaf47dc46": {
+            "id": "c9bbec61-467b-4ee2-10fb-d5ceaf47dc46",
+            "type": "text",
+            "name": "Text",
+            "parentId": "8da77900-f939-4604-373e-1c390dd73bb0",
+            "childIndex": 23,
+            "point": [
+              2709.34,
+              730.2
+            ],
+            "rotation": 0,
+            "text": "@fe/printer-preview",
+            "style": {
+              "color": "yellow",
+              "size": "small",
+              "isFilled": false,
+              "dash": "draw",
+              "scale": 1,
+              "font": "script",
+              "textAlign": "middle"
+            }
+          },
+          "fae043a3-b028-4071-0833-05369e22fffb": {
+            "id": "fae043a3-b028-4071-0833-05369e22fffb",
+            "type": "text",
+            "name": "Text",
+            "parentId": "8da77900-f939-4604-373e-1c390dd73bb0",
+            "childIndex": 24,
+            "point": [
+              2748.72,
+              791.54
+            ],
+            "rotation": 0,
+            "text": "1. 提供对于标签/小票的预览（接收模板key/模板代码）",
+            "style": {
+              "color": "yellow",
+              "size": "small",
+              "isFilled": false,
+              "dash": "draw",
+              "scale": 1,
+              "font": "script",
+              "textAlign": "middle"
+            }
+          },
+          "3febd186-0fa4-4b2c-07de-2a3cf3b2a587": {
+            "id": "3febd186-0fa4-4b2c-07de-2a3cf3b2a587",
+            "type": "text",
+            "name": "Text",
+            "parentId": "8da77900-f939-4604-373e-1c390dd73bb0",
+            "childIndex": 25,
+            "point": [
+              2752.45,
+              852.19
+            ],
+            "rotation": 0,
+            "text": "2. 根据传入的预设配置与数据，渲染对应的样式",
+            "style": {
+              "color": "yellow",
+              "size": "small",
+              "isFilled": false,
+              "dash": "draw",
+              "scale": 1,
+              "font": "script",
+              "textAlign": "middle"
+            }
+          },
+          "f23c07d7-d51e-465c-0593-94c1be12488b": {
+            "id": "f23c07d7-d51e-465c-0593-94c1be12488b",
+            "type": "rectangle",
+            "name": "Rectangle",
+            "parentId": "8da77900-f939-4604-373e-1c390dd73bb0",
+            "childIndex": 33,
+            "point": [
+              1549.32,
+              1175.72
+            ],
+            "size": [
+              399.58,
+              265.36
+            ],
+            "rotation": 0,
+            "style": {
+              "color": "lightGray",
+              "size": "small",
+              "isFilled": false,
+              "dash": "dashed",
+              "scale": 1,
+              "font": "script"
+            },
+            "label": "",
+            "labelPoint": [
+              0.5,
+              0.5
+            ]
+          },
+          "41562951-9699-491b-0e05-caa9c5a43cbb": {
+            "id": "41562951-9699-491b-0e05-caa9c5a43cbb",
+            "type": "text",
+            "name": "Text",
+            "parentId": "8da77900-f939-4604-373e-1c390dd73bb0",
+            "childIndex": 34,
+            "point": [
+              1571.12,
+              1200.1
+            ],
+            "rotation": 0,
+            "text": "模板开发端（模板编辑器）",
+            "style": {
+              "color": "lightGray",
+              "size": "small",
+              "isFilled": false,
+              "dash": "draw",
+              "scale": 1,
+              "font": "script",
+              "textAlign": "middle"
+            }
+          },
+          "4cc6bb93-2ca1-4dfd-1ab2-61efa0aa3d02": {
+            "id": "4cc6bb93-2ca1-4dfd-1ab2-61efa0aa3d02",
+            "type": "text",
+            "name": "Text",
+            "parentId": "8da77900-f939-4604-373e-1c390dd73bb0",
+            "childIndex": 35,
+            "point": [
+              1604.38,
+              1255.69
+            ],
+            "rotation": 0,
+            "text": "1. 编写/修改模板",
+            "style": {
+              "color": "lightGray",
+              "size": "small",
+              "isFilled": false,
+              "dash": "dashed",
+              "scale": 1,
+              "font": "script",
+              "textAlign": "middle"
+            }
+          },
+          "3ee31478-0d72-420d-1f31-1f809be712b3": {
+            "id": "3ee31478-0d72-420d-1f31-1f809be712b3",
+            "type": "text",
+            "name": "Text",
+            "parentId": "8da77900-f939-4604-373e-1c390dd73bb0",
+            "childIndex": 36,
+            "point": [
+              1604.11,
+              1307.45
+            ],
+            "rotation": 0,
+            "text": "2. 提供实时预览",
+            "style": {
+              "color": "lightGray",
+              "size": "small",
+              "isFilled": false,
+              "dash": "dashed",
+              "scale": 1,
+              "font": "script",
+              "textAlign": "middle"
+            }
+          },
+          "5729e2cd-e832-4a99-1c9e-c5a1f989b689": {
+            "id": "5729e2cd-e832-4a99-1c9e-c5a1f989b689",
+            "type": "text",
+            "name": "Text",
+            "parentId": "8da77900-f939-4604-373e-1c390dd73bb0",
+            "childIndex": 37,
+            "point": [
+              1604.22,
+              1360.33
+            ],
+            "rotation": 0,
+            "text": "3. 保存模板至服务端",
+            "style": {
+              "color": "lightGray",
+              "size": "small",
+              "isFilled": false,
+              "dash": "dashed",
+              "scale": 1,
+              "font": "script",
+              "textAlign": "middle"
+            }
+          },
+          "74fff2ff-20b2-4391-0a1b-29a5a328a6a3": {
+            "id": "74fff2ff-20b2-4391-0a1b-29a5a328a6a3",
+            "type": "arrow",
+            "name": "Arrow",
+            "parentId": "8da77900-f939-4604-373e-1c390dd73bb0",
+            "childIndex": 38,
+            "point": [
+              1754.66,
+              1048.53
+            ],
+            "rotation": 0,
+            "bend": 0.000004096812715388066,
+            "handles": {
+              "start": {
+                "id": "start",
+                "index": 0,
+                "point": [
+                  502.97,
+                  0
+                ],
+                "canBind": true
+              },
+              "end": {
+                "id": "end",
+                "index": 1,
+                "point": [
+                  0,
+                  108.46
+                ],
+                "canBind": true
+              },
+              "bend": {
+                "id": "bend",
+                "index": 2,
+                "point": [
+                  251.49,
+                  54.23
+                ]
+              }
+            },
+            "decorations": {
+              "end": "arrow"
+            },
+            "style": {
+              "color": "lightGray",
+              "size": "small",
+              "isFilled": false,
+              "dash": "dashed",
+              "scale": 1,
+              "font": "script"
+            },
+            "label": "",
+            "labelPoint": [
+              0.5,
+              0.5
+            ]
+          },
+          "2d7e469b-0353-4ad9-1f86-2007d1c8e6ca": {
+            "id": "2d7e469b-0353-4ad9-1f86-2007d1c8e6ca",
+            "type": "arrow",
+            "name": "Arrow",
+            "parentId": "8da77900-f939-4604-373e-1c390dd73bb0",
+            "childIndex": 39,
+            "point": [
+              2958.46,
+              1012.32
+            ],
+            "rotation": 0,
+            "bend": 0.00004133395671289447,
+            "handles": {
+              "start": {
+                "id": "start",
+                "index": 0,
+                "point": [
+                  0,
+                  0
+                ],
+                "canBind": true
+              },
+              "end": {
+                "id": "end",
+                "index": 1,
+                "point": [
+                  3.16,
+                  222.26
+                ],
+                "canBind": true,
+                "bindingId": "e6d0f451-fb0f-4cc1-100a-1fad9f6f89af"
+              },
+              "bend": {
+                "id": "bend",
+                "index": 2,
+                "point": [
+                  1.58,
+                  111.13
+                ]
+              }
+            },
+            "decorations": {
+              "end": "arrow"
+            },
+            "style": {
+              "color": "yellow",
+              "size": "small",
+              "isFilled": false,
+              "dash": "draw",
+              "scale": 1,
+              "font": "script"
+            },
+            "label": "",
+            "labelPoint": [
+              0.5,
+              0.5
+            ]
+          },
+          "ec3a3e6f-1eab-4b3b-1e46-6aa44de8310b": {
+            "id": "ec3a3e6f-1eab-4b3b-1e46-6aa44de8310b",
+            "type": "rectangle",
+            "name": "Rectangle",
+            "parentId": "8da77900-f939-4604-373e-1c390dd73bb0",
+            "childIndex": 40,
+            "point": [
+              2630.94,
+              1491.09
+            ],
+            "size": [
+              306.76,
+              165.09
+            ],
+            "rotation": 0,
+            "style": {
+              "color": "yellow",
+              "size": "small",
+              "isFilled": false,
+              "dash": "draw",
+              "scale": 1,
+              "font": "script"
+            },
+            "label": "",
+            "labelPoint": [
+              0.5,
+              0.5
+            ]
+          },
+          "904b0f14-2a6b-45fa-39ef-5c68432e632a": {
+            "id": "904b0f14-2a6b-45fa-39ef-5c68432e632a",
+            "type": "text",
+            "name": "Text",
+            "parentId": "8da77900-f939-4604-373e-1c390dd73bb0",
+            "childIndex": 41,
+            "point": [
+              2662.76,
+              1519.24
+            ],
+            "rotation": 0,
+            "text": "@fe/printer-browser",
+            "style": {
+              "color": "yellow",
+              "size": "small",
+              "isFilled": false,
+              "dash": "draw",
+              "scale": 1,
+              "font": "script",
+              "textAlign": "middle"
+            }
+          },
+          "db84b668-3959-480a-1c9b-04090d682ccd": {
+            "id": "db84b668-3959-480a-1c9b-04090d682ccd",
+            "type": "text",
+            "name": "Text",
+            "parentId": "8da77900-f939-4604-373e-1c390dd73bb0",
+            "childIndex": 42,
+            "point": [
+              2730,
+              1552.11
+            ],
+            "rotation": 0,
+            "text": " \nDOM渲染/截图",
+            "style": {
+              "color": "yellow",
+              "size": "small",
+              "isFilled": false,
+              "dash": "draw",
+              "scale": 1,
+              "font": "script",
+              "textAlign": "middle"
+            }
+          },
+          "870dd7e1-def8-4d46-12d3-929d04f7a451": {
+            "id": "870dd7e1-def8-4d46-12d3-929d04f7a451",
+            "type": "arrow",
+            "name": "Arrow",
+            "parentId": "8da77900-f939-4604-373e-1c390dd73bb0",
+            "childIndex": 43,
+            "point": [
+              2352,
+              1327.47
+            ],
+            "rotation": 0,
+            "bend": 0.000026542490279995196,
+            "handles": {
+              "start": {
+                "id": "start",
+                "index": 0,
+                "point": [
+                  255.15,
+                  156.69
+                ],
+                "canBind": true
+              },
+              "end": {
+                "id": "end",
+                "index": 1,
+                "point": [
+                  0,
+                  0
+                ],
+                "canBind": true,
+                "bindingId": "4f05625e-f637-49aa-2f2f-049c01d690eb"
+              },
+              "bend": {
+                "id": "bend",
+                "index": 2,
+                "point": [
+                  127.58,
+                  78.35
+                ]
+              }
+            },
+            "decorations": {
+              "end": "arrow"
+            },
+            "style": {
+              "color": "yellow",
+              "size": "small",
+              "isFilled": false,
+              "dash": "draw",
+              "scale": 1,
+              "font": "script"
+            },
+            "label": "",
+            "labelPoint": [
+              0.5,
+              0.5
+            ]
+          },
+          "4213709a-589e-4e6c-38b0-4d5dddc70807": {
+            "id": "4213709a-589e-4e6c-38b0-4d5dddc70807",
+            "type": "rectangle",
+            "name": "Rectangle",
+            "parentId": "8da77900-f939-4604-373e-1c390dd73bb0",
+            "childIndex": 44,
+            "point": [
+              1877.78,
+              1595.43
+            ],
+            "size": [
+              434.19,
+              182.7
+            ],
+            "rotation": 0,
+            "style": {
+              "color": "yellow",
+              "size": "small",
+              "isFilled": false,
+              "dash": "draw",
+              "scale": 1,
+              "font": "script"
+            },
+            "label": "",
+            "labelPoint": [
+              0.5,
+              0.5
+            ]
+          },
+          "8805eac1-536a-4c98-238e-7b2f52c42e96": {
+            "id": "8805eac1-536a-4c98-238e-7b2f52c42e96",
+            "type": "text",
+            "name": "Text",
+            "parentId": "8da77900-f939-4604-373e-1c390dd73bb0",
+            "childIndex": 45,
+            "point": [
+              1896.27,
+              1615.45
+            ],
+            "rotation": 0,
+            "text": "@fe/printer-core",
+            "style": {
+              "color": "yellow",
+              "size": "small",
+              "isFilled": false,
+              "dash": "draw",
+              "scale": 1,
+              "font": "script",
+              "textAlign": "middle"
+            }
+          },
+          "fa35bd51-83c3-47b1-3132-8cd07464f3ff": {
+            "id": "fa35bd51-83c3-47b1-3132-8cd07464f3ff",
+            "type": "arrow",
+            "name": "Arrow",
+            "parentId": "8da77900-f939-4604-373e-1c390dd73bb0",
+            "childIndex": 48,
+            "point": [
+              2016.24,
+              1376.96
+            ],
+            "rotation": 0,
+            "bend": -0.00005268448053622516,
+            "handles": {
+              "start": {
+                "id": "start",
+                "index": 0,
+                "point": [
+                  0,
+                  204.76
+                ],
+                "canBind": true
+              },
+              "end": {
+                "id": "end",
+                "index": 1,
+                "point": [
+                  139.76,
+                  0
+                ],
+                "canBind": true,
+                "bindingId": "8cce3fee-db85-43f0-115f-4a42aaeffdcb"
+              },
+              "bend": {
+                "id": "bend",
+                "index": 2,
+                "point": [
+                  69.88,
+                  102.38
+                ]
+              }
+            },
+            "decorations": {
+              "end": "arrow"
+            },
+            "style": {
+              "color": "yellow",
+              "size": "small",
+              "isFilled": false,
+              "dash": "draw",
+              "scale": 1,
+              "font": "script"
+            },
+            "label": "",
+            "labelPoint": [
+              0.5,
+              0.5
+            ]
+          },
+          "e87ccd15-bd48-4f3c-3d0d-367a8880aa15": {
+            "id": "e87ccd15-bd48-4f3c-3d0d-367a8880aa15",
+            "type": "text",
+            "name": "Text",
+            "parentId": "8da77900-f939-4604-373e-1c390dd73bb0",
+            "childIndex": 49,
+            "point": [
+              1924.22,
+              1675.24
+            ],
+            "rotation": 0,
+            "text": "与打印机通信并收敛不同型号\n的打印机指令",
+            "style": {
+              "color": "yellow",
+              "size": "small",
+              "isFilled": false,
+              "dash": "draw",
+              "scale": 1,
+              "font": "script",
+              "textAlign": "middle"
+            }
+          },
+          "7ea45ecf-7f23-4e16-2660-df930e6b164a": {
+            "id": "7ea45ecf-7f23-4e16-2660-df930e6b164a",
+            "type": "text",
+            "name": "Text",
+            "parentId": "8da77900-f939-4604-373e-1c390dd73bb0",
+            "childIndex": 50,
+            "point": [
+              2160.88,
+              1257.68
+            ],
+            "rotation": 0,
+            "text": "1. 预览模板样式",
+            "style": {
+              "color": "black",
+              "size": "small",
+              "isFilled": false,
+              "dash": "draw",
+              "scale": 1,
+              "font": "script",
+              "textAlign": "middle"
+            }
+          },
+          "7f13ed3c-83ff-4c37-2570-ab31fe8a9d70": {
+            "id": "7f13ed3c-83ff-4c37-2570-ab31fe8a9d70",
+            "type": "arrow",
+            "name": "Arrow",
+            "parentId": "8da77900-f939-4604-373e-1c390dd73bb0",
+            "childIndex": 51,
+            "point": [
+              2028.44,
+              1439
+            ],
+            "rotation": 0,
+            "bend": 0.000030847222938838266,
+            "handles": {
+              "start": {
+                "id": "start",
+                "index": 0,
+                "point": [
+                  0,
+                  145.43
+                ],
+                "canBind": true
+              },
+              "end": {
+                "id": "end",
+                "index": 1,
+                "point": [
+                  131.66,
+                  0
+                ],
+                "canBind": true,
+                "bindingId": "58eb5788-e802-4065-33cf-8e2fd293a6cc"
+              },
+              "bend": {
+                "id": "bend",
+                "index": 2,
+                "point": [
+                  65.83,
+                  72.72
+                ]
+              }
+            },
+            "decorations": {
+              "end": "arrow"
+            },
+            "style": {
+              "color": "yellow",
+              "size": "small",
+              "isFilled": false,
+              "dash": "draw",
+              "scale": 1,
+              "font": "script"
+            },
+            "label": "",
+            "labelPoint": [
+              0.5,
+              0.5
+            ]
+          },
+          "e776ff33-e989-401e-3bd6-ae66d4d7cff0": {
+            "id": "e776ff33-e989-401e-3bd6-ae66d4d7cff0",
+            "type": "arrow",
+            "name": "Arrow",
+            "parentId": "8da77900-f939-4604-373e-1c390dd73bb0",
+            "childIndex": 52,
+            "point": [
+              2366.88,
+              1005.54
+            ],
+            "rotation": 0,
+            "bend": -0.000006697048613482775,
+            "handles": {
+              "start": {
+                "id": "start",
+                "index": 0,
+                "point": [
+                  556.33,
+                  0
+                ],
+                "canBind": true
+              },
+              "end": {
+                "id": "end",
+                "index": 1,
+                "point": [
+                  0,
+                  256.95
+                ],
+                "canBind": true,
+                "bindingId": "d39ae00f-21eb-4f5a-0f4b-fd66afc0db9c"
+              },
+              "bend": {
+                "id": "bend",
+                "index": 2,
+                "point": [
+                  278.17,
+                  128.48
+                ]
+              }
+            },
+            "decorations": {
+              "end": "arrow"
+            },
+            "style": {
+              "color": "yellow",
+              "size": "small",
+              "isFilled": false,
+              "dash": "draw",
+              "scale": 1,
+              "font": "script"
+            },
+            "label": "",
+            "labelPoint": [
+              0.5,
+              0.5
+            ]
+          },
+          "9ea52d38-4dbe-4952-25e1-fc824e09f15b": {
+            "id": "9ea52d38-4dbe-4952-25e1-fc824e09f15b",
+            "type": "rectangle",
+            "name": "Rectangle",
+            "parentId": "8da77900-f939-4604-373e-1c390dd73bb0",
+            "childIndex": 53,
+            "point": [
+              1179.03,
+              1528.21
+            ],
+            "size": [
+              556.2,
+              453.92
+            ],
+            "rotation": 0,
+            "style": {
+              "color": "yellow",
+              "size": "small",
+              "isFilled": false,
+              "dash": "dashed",
+              "scale": 1,
+              "font": "script"
+            },
+            "label": "",
+            "labelPoint": [
+              0.5,
+              0.5
+            ]
+          },
+          "7e57b907-f6f9-4209-06d5-0bd4c2f4fc49": {
+            "id": "7e57b907-f6f9-4209-06d5-0bd4c2f4fc49",
+            "type": "text",
+            "name": "Text",
+            "parentId": "8da77900-f939-4604-373e-1c390dd73bb0",
+            "childIndex": 54,
+            "point": [
+              1189.02,
+              1548.23
+            ],
+            "rotation": 0,
+            "text": "@fe/printer-editor",
+            "style": {
+              "color": "yellow",
+              "size": "small",
+              "isFilled": false,
+              "dash": "dashed",
+              "scale": 1,
+              "font": "script",
+              "textAlign": "middle"
+            }
+          },
+          "9fda34ec-f288-4d46-3c95-9c58935db01e": {
+            "id": "9fda34ec-f288-4d46-3c95-9c58935db01e",
+            "type": "text",
+            "name": "Text",
+            "parentId": "8da77900-f939-4604-373e-1c390dd73bb0",
+            "childIndex": 55,
+            "point": [
+              1226.5,
+              1620.22
+            ],
+            "rotation": 0,
+            "text": "1. 提供了基本的代码编辑器部分，\n可以对模板进行修改创建，并预览。",
+            "style": {
+              "color": "yellow",
+              "size": "small",
+              "isFilled": false,
+              "dash": "dashed",
+              "scale": 1,
+              "font": "script",
+              "textAlign": "middle"
+            }
+          },
+          "037eb05d-7f04-4d2c-35d0-f8c19485a783": {
+            "id": "037eb05d-7f04-4d2c-35d0-f8c19485a783",
+            "type": "text",
+            "name": "Text",
+            "parentId": "8da77900-f939-4604-373e-1c390dd73bb0",
+            "childIndex": 56,
+            "point": [
+              1261.69,
+              1736.1
+            ],
+            "rotation": 0,
+            "text": " ",
+            "style": {
+              "color": "yellow",
+              "size": "small",
+              "isFilled": false,
+              "dash": "dashed",
+              "scale": 1,
+              "font": "script",
+              "textAlign": "middle"
+            }
+          },
+          "cf2ebcc7-a059-4be8-11b2-818b41e64364": {
+            "id": "cf2ebcc7-a059-4be8-11b2-818b41e64364",
+            "type": "text",
+            "name": "Text",
+            "parentId": "8da77900-f939-4604-373e-1c390dd73bb0",
+            "childIndex": 57,
+            "point": [
+              1248.13,
+              1627.64
+            ],
+            "rotation": 0,
+            "text": " ",
+            "style": {
+              "color": "yellow",
+              "size": "small",
+              "isFilled": false,
+              "dash": "dashed",
+              "scale": 1,
+              "font": "script",
+              "textAlign": "middle"
+            }
+          },
+          "e5258878-40bb-4f2e-2e44-ac645c087d18": {
+            "id": "e5258878-40bb-4f2e-2e44-ac645c087d18",
+            "type": "text",
+            "name": "Text",
+            "parentId": "8da77900-f939-4604-373e-1c390dd73bb0",
+            "childIndex": 58,
+            "point": [
+              1243.41,
+              1720.75
+            ],
+            "rotation": 0,
+            "text": "2. 与服务端的模板进行CRUD操作",
+            "style": {
+              "color": "yellow",
+              "size": "small",
+              "isFilled": false,
+              "dash": "dashed",
+              "scale": 1,
+              "font": "script",
+              "textAlign": "middle"
+            }
+          },
+          "3a7c91a3-c765-4a34-2fa6-0268a1a385e2": {
+            "id": "3a7c91a3-c765-4a34-2fa6-0268a1a385e2",
+            "type": "arrow",
+            "name": "Arrow",
+            "parentId": "8da77900-f939-4604-373e-1c390dd73bb0",
+            "childIndex": 59,
+            "point": [
+              1388.62,
+              1350.98
+            ],
+            "rotation": 0,
+            "bend": 0,
+            "handles": {
+              "start": {
+                "id": "start",
+                "index": 0,
+                "point": [
+                  0,
+                  157.26
+                ],
+                "canBind": true
+              },
+              "end": {
+                "id": "end",
+                "index": 1,
+                "point": [
+                  138.28,
+                  0
+                ],
+                "canBind": true
+              },
+              "bend": {
+                "id": "bend",
+                "index": 2,
+                "point": [
+                  69.14,
+                  78.63
+                ]
+              }
+            },
+            "decorations": {
+              "end": "arrow"
+            },
+            "style": {
+              "color": "yellow",
+              "size": "small",
+              "isFilled": false,
+              "dash": "dashed",
+              "scale": 1,
+              "font": "script"
+            },
+            "label": "",
+            "labelPoint": [
+              0.5,
+              0.5
+            ]
+          },
+          "3fa42d89-2850-4d41-0a32-53f0f7295ac6": {
+            "id": "3fa42d89-2850-4d41-0a32-53f0f7295ac6",
+            "type": "text",
+            "name": "Text",
+            "parentId": "8da77900-f939-4604-373e-1c390dd73bb0",
+            "childIndex": 60,
+            "point": [
+              1244.49,
+              1785.92
+            ],
+            "rotation": 0,
+            "text": "3. 管理模板的静态资源文件",
+            "style": {
+              "color": "yellow",
+              "size": "small",
+              "isFilled": false,
+              "dash": "dashed",
+              "scale": 1,
+              "font": "script",
+              "textAlign": "middle"
+            }
+          },
+          "29a43cfa-13ff-4836-24f0-52bb150e7ff1": {
+            "id": "29a43cfa-13ff-4836-24f0-52bb150e7ff1",
+            "type": "text",
+            "name": "Text",
+            "parentId": "8da77900-f939-4604-373e-1c390dd73bb0",
+            "childIndex": 61,
+            "point": [
+              1546.04,
+              2313.93
+            ],
+            "rotation": 0,
+            "text": "发布一套模板的流程",
+            "style": {
+              "color": "lightGray",
+              "size": "small",
+              "isFilled": false,
+              "dash": "dashed",
+              "scale": 1,
+              "font": "script",
+              "textAlign": "middle"
+            }
+          },
+          "fcaca191-9c55-40d6-1d4f-b30e4e7b4574": {
+            "id": "fcaca191-9c55-40d6-1d4f-b30e4e7b4574",
+            "type": "rectangle",
+            "name": "Rectangle",
+            "parentId": "8da77900-f939-4604-373e-1c390dd73bb0",
+            "childIndex": 62,
+            "point": [
+              1557.52,
+              2424.39
+            ],
+            "size": [
+              350.59,
+              263.57
+            ],
+            "rotation": 0,
+            "style": {
+              "color": "lightGray",
+              "size": "small",
+              "isFilled": false,
+              "dash": "draw",
+              "scale": 1,
+              "font": "script"
+            },
+            "label": " ",
+            "labelPoint": [
+              0.5,
+              0.5
+            ]
+          },
+          "c38700bc-bee3-4da6-368f-412fceff266f": {
+            "id": "c38700bc-bee3-4da6-368f-412fceff266f",
+            "type": "text",
+            "name": "Text",
+            "parentId": "8da77900-f939-4604-373e-1c390dd73bb0",
+            "childIndex": 63,
+            "point": [
+              1640.57,
+              2484.92
+            ],
+            "rotation": 0,
+            "text": "编辑创建模板",
+            "style": {
+              "color": "lightGray",
+              "size": "small",
+              "isFilled": false,
+              "dash": "draw",
+              "scale": 1,
+              "font": "script",
+              "textAlign": "middle"
+            }
+          },
+          "55852ae5-c0fc-459d-19ba-9b3fb76edf84": {
+            "id": "55852ae5-c0fc-459d-19ba-9b3fb76edf84",
+            "type": "text",
+            "name": "Text",
+            "parentId": "8da77900-f939-4604-373e-1c390dd73bb0",
+            "childIndex": 64,
+            "point": [
+              1572.57,
+              2561.44
+            ],
+            "rotation": 0,
+            "text": "静态资源部分会传至CDN，\n并将相关链接存至服务端",
+            "style": {
+              "color": "lightGray",
+              "size": "small",
+              "isFilled": false,
+              "dash": "draw",
+              "scale": 1,
+              "font": "script",
+              "textAlign": "middle"
+            }
+          },
+          "8ae5639a-2fc7-42e0-1f15-9682d0d85ba7": {
+            "id": "8ae5639a-2fc7-42e0-1f15-9682d0d85ba7",
+            "type": "rectangle",
+            "name": "Rectangle",
+            "parentId": "8da77900-f939-4604-373e-1c390dd73bb0",
+            "childIndex": 65,
+            "point": [
+              2100.64,
+              2421.39
+            ],
+            "size": [
+              409.11,
+              272.57
+            ],
+            "rotation": 0,
+            "style": {
+              "color": "lightGray",
+              "size": "small",
+              "isFilled": false,
+              "dash": "dashed",
+              "scale": 1,
+              "font": "script"
+            },
+            "label": "企业定制端进行预配置",
+            "labelPoint": [
+              0.5,
+              0.5
+            ]
+          },
+          "0a93a20f-ef87-4e61-305d-14d4815b6865": {
+            "id": "0a93a20f-ef87-4e61-305d-14d4815b6865",
+            "type": "arrow",
+            "name": "Arrow",
+            "parentId": "8da77900-f939-4604-373e-1c390dd73bb0",
+            "childIndex": 66,
+            "point": [
+              1949.099503619477,
+              2564.9359991758747,
+              0.5
+            ],
+            "rotation": 0,
+            "bend": 0,
+            "handles": {
+              "start": {
+                "id": "start",
+                "index": 0,
+                "point": [
+                  0,
+                  0
+                ],
+                "canBind": true
+              },
+              "end": {
+                "id": "end",
+                "index": 1,
+                "point": [
+                  132.04,
+                  0
+                ],
+                "canBind": true
+              },
+              "bend": {
+                "id": "bend",
+                "index": 2,
+                "point": [
+                  66.02,
+                  0
+                ]
+              }
+            },
+            "decorations": {
+              "end": "arrow"
+            },
+            "style": {
+              "color": "lightGray",
+              "size": "small",
+              "isFilled": false,
+              "dash": "draw",
+              "scale": 1,
+              "font": "script"
+            },
+            "label": "",
+            "labelPoint": [
+              0.5,
+              0.5
+            ]
+          },
+          "18844adc-21e3-41f1-2772-81903231884c": {
+            "id": "18844adc-21e3-41f1-2772-81903231884c",
+            "type": "rectangle",
+            "name": "Rectangle",
+            "parentId": "8da77900-f939-4604-373e-1c390dd73bb0",
+            "childIndex": 67,
+            "point": [
+              3272.43,
+              2405.87
+            ],
+            "size": [
+              446.62,
+              277.08
+            ],
+            "rotation": 0,
+            "style": {
+              "color": "lightGray",
+              "size": "small",
+              "isFilled": false,
+              "dash": "draw",
+              "scale": 1,
+              "font": "script"
+            },
+            "label": "",
+            "labelPoint": [
+              0.5,
+              0.5
+            ]
+          },
+          "bd8f00b0-f7ef-48e7-29d7-8ca31a213870": {
+            "id": "bd8f00b0-f7ef-48e7-29d7-8ca31a213870",
+            "type": "rectangle",
+            "name": "Rectangle",
+            "parentId": "8da77900-f939-4604-373e-1c390dd73bb0",
+            "childIndex": 75,
+            "point": [
+              1969.12,
+              1892.54
+            ],
+            "size": [
+              446.82,
+              468.3
+            ],
+            "rotation": 0,
+            "style": {
+              "color": "green",
+              "size": "small",
+              "isFilled": false,
+              "dash": "draw",
+              "scale": 1,
+              "font": "script"
+            },
+            "label": "",
+            "labelPoint": [
+              0.5,
+              0.5
+            ]
+          },
+          "bfa9689b-ec50-4436-33b5-907b1c3ce0aa": {
+            "id": "bfa9689b-ec50-4436-33b5-907b1c3ce0aa",
+            "type": "text",
+            "name": "Text",
+            "parentId": "8da77900-f939-4604-373e-1c390dd73bb0",
+            "childIndex": 76,
+            "point": [
+              1998.02,
+              1931.22
+            ],
+            "rotation": 0,
+            "text": "标签/小票涵盖的部分",
+            "style": {
+              "color": "green",
+              "size": "small",
+              "isFilled": false,
+              "dash": "draw",
+              "scale": 1,
+              "font": "script",
+              "textAlign": "middle"
+            }
+          },
+          "2676e0d8-ef61-49d5-3d80-fd59c657b1ac": {
+            "id": "2676e0d8-ef61-49d5-3d80-fd59c657b1ac",
+            "type": "text",
+            "name": "Text",
+            "parentId": "8da77900-f939-4604-373e-1c390dd73bb0",
+            "childIndex": 77,
+            "point": [
+              2093.19,
+              2030.62
+            ],
+            "rotation": 0,
+            "text": "1. 模板代码",
+            "style": {
+              "color": "green",
+              "size": "small",
+              "isFilled": false,
+              "dash": "draw",
+              "scale": 1,
+              "font": "script",
+              "textAlign": "middle"
+            }
+          },
+          "b3a934a8-a5d6-41ff-0b32-385cf66f83cd": {
+            "id": "b3a934a8-a5d6-41ff-0b32-385cf66f83cd",
+            "type": "text",
+            "name": "Text",
+            "parentId": "8da77900-f939-4604-373e-1c390dd73bb0",
+            "childIndex": 78,
+            "point": [
+              2096,
+              2096
+            ],
+            "rotation": 0,
+            "text": "2. 静态资源文件（CDN）",
+            "style": {
+              "color": "green",
+              "size": "small",
+              "isFilled": false,
+              "dash": "draw",
+              "scale": 1,
+              "font": "script",
+              "textAlign": "middle"
+            }
+          },
+          "9f2756cd-c253-4b03-2854-d8cc940c9972": {
+            "id": "9f2756cd-c253-4b03-2854-d8cc940c9972",
+            "type": "text",
+            "name": "Text",
+            "parentId": "8da77900-f939-4604-373e-1c390dd73bb0",
+            "childIndex": 79,
+            "point": [
+              2119.19,
+              2145.62
+            ],
+            "rotation": 0,
+            "text": "a. 图片",
+            "style": {
+              "color": "green",
+              "size": "small",
+              "isFilled": false,
+              "dash": "draw",
+              "scale": 1,
+              "font": "script",
+              "textAlign": "middle"
+            }
+          },
+          "f01ab67e-d4c2-4567-1e58-9cea9adf5a37": {
+            "id": "f01ab67e-d4c2-4567-1e58-9cea9adf5a37",
+            "type": "text",
+            "name": "Text",
+            "parentId": "8da77900-f939-4604-373e-1c390dd73bb0",
+            "childIndex": 80,
+            "point": [
+              2119.95,
+              2200.88
+            ],
+            "rotation": 0,
+            "text": "b. 字体",
+            "style": {
+              "color": "green",
+              "size": "small",
+              "isFilled": false,
+              "dash": "draw",
+              "scale": 1,
+              "font": "script",
+              "textAlign": "middle"
+            }
+          },
+          "1955d1b4-56bc-4a14-2e82-aa81a839d5bc": {
+            "id": "1955d1b4-56bc-4a14-2e82-aa81a839d5bc",
+            "type": "text",
+            "name": "Text",
+            "parentId": "8da77900-f939-4604-373e-1c390dd73bb0",
+            "childIndex": 81,
+            "point": [
+              2093.69,
+              2269.59
+            ],
+            "rotation": 0,
+            "text": "3. 预设配置",
+            "style": {
+              "color": "green",
+              "size": "small",
+              "isFilled": false,
+              "dash": "draw",
+              "scale": 1,
+              "font": "script",
+              "textAlign": "middle"
+            }
+          },
+          "a9e5616d-855c-4273-225e-3216f043f610": {
+            "id": "a9e5616d-855c-4273-225e-3216f043f610",
+            "type": "arrow",
+            "name": "Arrow",
+            "parentId": "8da77900-f939-4604-373e-1c390dd73bb0",
+            "childIndex": 82,
+            "point": [
+              3150.82,
+              2539.23
+            ],
+            "rotation": 0,
+            "bend": 0.0000014838951525557115,
+            "handles": {
+              "start": {
+                "id": "start",
+                "index": 0,
+                "point": [
+                  0,
+                  0
+                ],
+                "canBind": true
+              },
+              "end": {
+                "id": "end",
+                "index": 1,
+                "point": [
+                  100.53,
+                  1.5
+                ],
+                "canBind": true
+              },
+              "bend": {
+                "id": "bend",
+                "index": 2,
+                "point": [
+                  50.27,
+                  0.75
+                ]
+              }
+            },
+            "decorations": {
+              "end": "arrow"
+            },
+            "style": {
+              "color": "lightGray",
+              "size": "small",
+              "isFilled": false,
+              "dash": "draw",
+              "scale": 1,
+              "font": "script"
+            },
+            "label": "",
+            "labelPoint": [
+              0.5,
+              0.5
+            ]
+          },
+          "76995d6c-8d46-433d-3f8d-6a59d8fd4d4a": {
+            "id": "76995d6c-8d46-433d-3f8d-6a59d8fd4d4a",
+            "type": "text",
+            "name": "Text",
+            "parentId": "8da77900-f939-4604-373e-1c390dd73bb0",
+            "childIndex": 83,
+            "point": [
+              3363.87,
+              2523.29
+            ],
+            "rotation": 0,
+            "text": "服务端返回 模板信息/\n预配置数据/打印数据",
+            "style": {
+              "color": "lightGray",
+              "size": "small",
+              "isFilled": false,
+              "dash": "draw",
+              "scale": 1,
+              "font": "script",
+              "textAlign": "middle"
+            }
+          },
+          "a8bac6e3-84dd-4b41-0530-8ac57eff3537": {
+            "id": "a8bac6e3-84dd-4b41-0530-8ac57eff3537",
+            "type": "rectangle",
+            "name": "Rectangle",
+            "parentId": "8da77900-f939-4604-373e-1c390dd73bb0",
+            "childIndex": 84,
+            "point": [
+              3931.59,
+              2402.72
+            ],
+            "size": [
+              469.13,
+              281.58
+            ],
+            "rotation": 0,
+            "style": {
+              "color": "lightGray",
+              "size": "small",
+              "isFilled": false,
+              "dash": "draw",
+              "scale": 1,
+              "font": "script"
+            },
+            "label": " ",
+            "labelPoint": [
+              0.5,
+              0.5
+            ]
+          },
+          "03fb8654-68b8-41af-345e-82facf53bd47": {
+            "id": "03fb8654-68b8-41af-345e-82facf53bd47",
+            "type": "arrow",
+            "name": "Arrow",
+            "parentId": "8da77900-f939-4604-373e-1c390dd73bb0",
+            "childIndex": 85,
+            "point": [
+              3741.03,
+              2539.27
+            ],
+            "rotation": 0,
+            "bend": 0,
+            "handles": {
+              "start": {
+                "id": "start",
+                "index": 0,
+                "point": [
+                  0,
+                  1.5
+                ],
+                "canBind": true
+              },
+              "end": {
+                "id": "end",
+                "index": 1,
+                "point": [
+                  159.04,
+                  0
+                ],
+                "canBind": true
+              },
+              "bend": {
+                "id": "bend",
+                "index": 2,
+                "point": [
+                  79.52,
+                  0.75
+                ]
+              }
+            },
+            "decorations": {
+              "end": "arrow"
+            },
+            "style": {
+              "color": "lightGray",
+              "size": "small",
+              "isFilled": false,
+              "dash": "draw",
+              "scale": 1,
+              "font": "script"
+            },
+            "label": "",
+            "labelPoint": [
+              0.5,
+              0.5
+            ]
+          },
+          "f81d95d8-d6a3-4da4-1d52-8af382657994": {
+            "id": "f81d95d8-d6a3-4da4-1d52-8af382657994",
+            "type": "text",
+            "name": "Text",
+            "parentId": "8da77900-f939-4604-373e-1c390dd73bb0",
+            "childIndex": 86,
+            "point": [
+              3946.11,
+              2442.24
+            ],
+            "rotation": 0,
+            "text": "商户端",
+            "style": {
+              "color": "lightGray",
+              "size": "small",
+              "isFilled": false,
+              "dash": "draw",
+              "scale": 1,
+              "font": "script",
+              "textAlign": "middle"
+            }
+          },
+          "b2603689-b593-4c56-19b3-71a625739753": {
+            "id": "b2603689-b593-4c56-19b3-71a625739753",
+            "type": "text",
+            "name": "Text",
+            "parentId": "8da77900-f939-4604-373e-1c390dd73bb0",
+            "childIndex": 87,
+            "point": [
+              3977.12,
+              2491.76
+            ],
+            "rotation": 0,
+            "text": "1. 更新模板",
+            "style": {
+              "color": "lightGray",
+              "size": "small",
+              "isFilled": false,
+              "dash": "draw",
+              "scale": 1,
+              "font": "script",
+              "textAlign": "middle"
+            }
+          },
+          "50ce1b1d-e12b-4258-25f3-dc36d9a42275": {
+            "id": "50ce1b1d-e12b-4258-25f3-dc36d9a42275",
+            "type": "text",
+            "name": "Text",
+            "parentId": "8da77900-f939-4604-373e-1c390dd73bb0",
+            "childIndex": 88,
+            "point": [
+              3979.65,
+              2544.27
+            ],
+            "rotation": 0,
+            "text": "2. 根据预配置数据与打印数据渲\n染并打印",
+            "style": {
+              "color": "lightGray",
+              "size": "small",
+              "isFilled": false,
+              "dash": "draw",
+              "scale": 1,
+              "font": "script",
+              "textAlign": "middle"
+            }
+          },
+          "62913d43-b3b6-4033-14ee-1d44614b0efb": {
+            "id": "62913d43-b3b6-4033-14ee-1d44614b0efb",
+            "type": "rectangle",
+            "name": "Rectangle",
+            "parentId": "8da77900-f939-4604-373e-1c390dd73bb0",
+            "childIndex": 89,
+            "point": [
+              2707.29,
+              2408.73
+            ],
+            "size": [
+              406.11,
+              284.58
+            ],
+            "rotation": 0,
+            "style": {
+              "color": "lightGray",
+              "size": "small",
+              "isFilled": false,
+              "dash": "draw",
+              "scale": 1,
+              "font": "script"
+            },
+            "label": "检查并缓存模板/资源文件",
+            "labelPoint": [
+              0.5,
+              0.5
+            ]
+          },
+          "20ccc313-fc9f-43ac-0f3b-5cae9e0a0022": {
+            "id": "20ccc313-fc9f-43ac-0f3b-5cae9e0a0022",
+            "type": "arrow",
+            "name": "Arrow",
+            "parentId": "8da77900-f939-4604-373e-1c390dd73bb0",
+            "childIndex": 90,
+            "point": [
+              2549.742249690953,
+              2548.268656141416,
+              0.5
+            ],
+            "rotation": 0,
+            "bend": 0,
+            "handles": {
+              "start": {
+                "id": "start",
+                "index": 0,
+                "point": [
+                  0,
+                  0
+                ],
+                "canBind": true
+              },
+              "end": {
+                "id": "end",
+                "index": 1,
+                "point": [
+                  115.53,
+                  0
+                ],
+                "canBind": true
+              },
+              "bend": {
+                "id": "bend",
+                "index": 2,
+                "point": [
+                  57.77,
+                  0
+                ]
+              }
+            },
+            "decorations": {
+              "end": "arrow"
+            },
+            "style": {
+              "color": "lightGray",
+              "size": "small",
+              "isFilled": false,
+              "dash": "draw",
+              "scale": 1,
+              "font": "script"
+            },
+            "label": "",
+            "labelPoint": [
+              0.5,
+              0.5
+            ]
+          },
+          "11e37f65-d789-4bd5-2b50-2e348019ab8d": {
+            "id": "11e37f65-d789-4bd5-2b50-2e348019ab8d",
+            "type": "arrow",
+            "name": "Arrow",
+            "parentId": "8da77900-f939-4604-373e-1c390dd73bb0",
+            "childIndex": 91,
+            "point": [
+              1818.97,
+              2061.19
+            ],
+            "rotation": 0,
+            "bend": 0.00002743562234329357,
+            "handles": {
+              "start": {
+                "id": "start",
+                "index": 0,
+                "point": [
+                  274.22,
+                  0
+                ],
+                "canBind": true,
+                "bindingId": "1eb931bc-4239-4083-0654-43fb8ce53df8"
+              },
+              "end": {
+                "id": "end",
+                "index": 1,
+                "point": [
+                  0,
+                  415.73
+                ],
+                "canBind": true,
+                "bindingId": "796f2b35-2a60-4bbf-3217-343b2a1db59d"
+              },
+              "bend": {
+                "id": "bend",
+                "index": 2,
+                "point": [
+                  137.11,
+                  207.87
+                ]
+              }
+            },
+            "decorations": {
+              "end": "arrow"
+            },
+            "style": {
+              "color": "green",
+              "size": "small",
+              "isFilled": false,
+              "dash": "draw",
+              "scale": 1,
+              "font": "script"
+            },
+            "label": "",
+            "labelPoint": [
+              0.5,
+              0.5
+            ]
+          },
+          "fe6e03a7-4c94-402a-3233-b3af9aaf9fae": {
+            "id": "fe6e03a7-4c94-402a-3233-b3af9aaf9fae",
+            "type": "arrow",
+            "name": "Arrow",
+            "parentId": "8da77900-f939-4604-373e-1c390dd73bb0",
+            "childIndex": 92,
+            "point": [
+              1869.55,
+              2134
+            ],
+            "rotation": 0,
+            "bend": 0.000027457861924363633,
+            "handles": {
+              "start": {
+                "id": "start",
+                "index": 0,
+                "point": [
+                  234.3,
+                  0
+                ],
+                "canBind": true,
+                "bindingId": "82483054-f45f-4734-0525-c9437719ffa9"
+              },
+              "end": {
+                "id": "end",
+                "index": 1,
+                "point": [
+                  0,
+                  419.44
+                ],
+                "canBind": true,
+                "bindingId": "5f6b30ce-dda3-461d-1c36-250d649546cf"
+              },
+              "bend": {
+                "id": "bend",
+                "index": 2,
+                "point": [
+                  117.15,
+                  209.72
+                ]
+              }
+            },
+            "decorations": {
+              "end": "arrow"
+            },
+            "style": {
+              "color": "green",
+              "size": "small",
+              "isFilled": false,
+              "dash": "draw",
+              "scale": 1,
+              "font": "script"
+            },
+            "label": "",
+            "labelPoint": [
+              0.5,
+              0.5
+            ]
+          },
+          "ac8c348f-83d0-4253-13f0-03fac9db1116": {
+            "id": "ac8c348f-83d0-4253-13f0-03fac9db1116",
+            "type": "arrow",
+            "name": "Arrow",
+            "parentId": "8da77900-f939-4604-373e-1c390dd73bb0",
+            "childIndex": 93,
+            "point": [
+              2171,
+              2307.59
+            ],
+            "rotation": 0,
+            "bend": 0.000024638727209874797,
+            "handles": {
+              "start": {
+                "id": "start",
+                "index": 0,
+                "point": [
+                  0,
+                  0
+                ],
+                "canBind": true,
+                "bindingId": "ff2f59dc-dfca-430b-3e5d-357bbfcf4862"
+              },
+              "end": {
+                "id": "end",
+                "index": 1,
+                "point": [
+                  27.31,
+                  97.8
+                ],
+                "canBind": true,
+                "bindingId": "cce7121b-6ba4-4bef-0fa8-cbd7fff782bf"
+              },
+              "bend": {
+                "id": "bend",
+                "index": 2,
+                "point": [
+                  13.66,
+                  48.9
+                ]
+              }
+            },
+            "decorations": {
+              "end": "arrow"
+            },
+            "style": {
+              "color": "green",
+              "size": "small",
+              "isFilled": false,
+              "dash": "draw",
+              "scale": 1,
+              "font": "script"
+            },
+            "label": "",
+            "labelPoint": [
+              0.5,
+              0.5
+            ]
+          }
+        },
+        "bindings": {
+          "e6d0f451-fb0f-4cc1-100a-1fad9f6f89af": {
+            "id": "e6d0f451-fb0f-4cc1-100a-1fad9f6f89af",
+            "type": "arrow",
+            "fromId": "2d7e469b-0353-4ad9-1f86-2007d1c8e6ca",
+            "toId": "3626e430-9309-47f5-1ad0-0930dde72d8b",
+            "handleId": "end",
+            "point": [
+              0.89,
+              0.79
+            ],
+            "distance": 8
+          },
+          "4f05625e-f637-49aa-2f2f-049c01d690eb": {
+            "id": "4f05625e-f637-49aa-2f2f-049c01d690eb",
+            "type": "arrow",
+            "fromId": "870dd7e1-def8-4d46-12d3-929d04f7a451",
+            "toId": "4cd756a2-bb51-4633-0c7c-be0365ecb606",
+            "handleId": "end",
+            "point": [
+              0.85,
+              0.23
+            ],
+            "distance": 8
+          },
+          "8cce3fee-db85-43f0-115f-4a42aaeffdcb": {
+            "id": "8cce3fee-db85-43f0-115f-4a42aaeffdcb",
+            "type": "arrow",
+            "fromId": "fa35bd51-83c3-47b1-3132-8cd07464f3ff",
+            "toId": "819f80cf-5ec2-4d2a-3b75-acd47a990d46",
+            "handleId": "end",
+            "point": [
+              0.08,
+              0.22
+            ],
+            "distance": 8
+          },
+          "58eb5788-e802-4065-33cf-8e2fd293a6cc": {
+            "id": "58eb5788-e802-4065-33cf-8e2fd293a6cc",
+            "type": "arrow",
+            "fromId": "7f13ed3c-83ff-4c37-2570-ab31fe8a9d70",
+            "toId": "51d11151-985b-4e8a-3611-6fa178fd7c60",
+            "handleId": "end",
+            "point": [
+              0.17,
+              0.35
+            ],
+            "distance": 8
+          },
+          "d39ae00f-21eb-4f5a-0f4b-fd66afc0db9c": {
+            "id": "d39ae00f-21eb-4f5a-0f4b-fd66afc0db9c",
+            "type": "arrow",
+            "fromId": "e776ff33-e989-401e-3bd6-ae66d4d7cff0",
+            "toId": "7ea45ecf-7f23-4e16-2660-df930e6b164a",
+            "handleId": "end",
+            "point": [
+              0.78,
+              0.64
+            ],
+            "distance": 8
+          },
+          "796f2b35-2a60-4bbf-3217-343b2a1db59d": {
+            "id": "796f2b35-2a60-4bbf-3217-343b2a1db59d",
+            "type": "arrow",
+            "fromId": "11e37f65-d789-4bd5-2b50-2e348019ab8d",
+            "toId": "c38700bc-bee3-4da6-368f-412fceff266f",
+            "handleId": "end",
+            "point": [
+              0.86,
+              0.67
+            ],
+            "distance": 8
+          },
+          "1eb931bc-4239-4083-0654-43fb8ce53df8": {
+            "id": "1eb931bc-4239-4083-0654-43fb8ce53df8",
+            "type": "arrow",
+            "fromId": "11e37f65-d789-4bd5-2b50-2e348019ab8d",
+            "toId": "2676e0d8-ef61-49d5-3d80-fd59c657b1ac",
+            "handleId": "start",
+            "point": [
+              0.14,
+              0.31
+            ],
+            "distance": 8
+          },
+          "5f6b30ce-dda3-461d-1c36-250d649546cf": {
+            "id": "5f6b30ce-dda3-461d-1c36-250d649546cf",
+            "type": "arrow",
+            "fromId": "fe6e03a7-4c94-402a-3233-b3af9aaf9fae",
+            "toId": "55852ae5-c0fc-459d-19ba-9b3fb76edf84",
+            "handleId": "end",
+            "point": [
+              0.78,
+              0.63
+            ],
+            "distance": 8
+          },
+          "82483054-f45f-4734-0525-c9437719ffa9": {
+            "id": "82483054-f45f-4734-0525-c9437719ffa9",
+            "type": "arrow",
+            "fromId": "fe6e03a7-4c94-402a-3233-b3af9aaf9fae",
+            "toId": "b3a934a8-a5d6-41ff-0b32-385cf66f83cd",
+            "handleId": "start",
+            "point": [
+              0.1,
+              0.3
+            ],
+            "distance": 8
+          },
+          "ff2f59dc-dfca-430b-3e5d-357bbfcf4862": {
+            "id": "ff2f59dc-dfca-430b-3e5d-357bbfcf4862",
+            "type": "arrow",
+            "fromId": "ac8c348f-83d0-4253-13f0-03fac9db1116",
+            "toId": "1955d1b4-56bc-4a14-2e82-aa81a839d5bc",
+            "handleId": "start",
+            "point": [
+              0.5,
+              0.5
+            ],
+            "distance": 8
+          },
+          "cce7121b-6ba4-4bef-0fa8-cbd7fff782bf": {
+            "id": "cce7121b-6ba4-4bef-0fa8-cbd7fff782bf",
+            "type": "arrow",
+            "fromId": "ac8c348f-83d0-4253-13f0-03fac9db1116",
+            "toId": "8ae5639a-2fc7-42e0-1f15-9682d0d85ba7",
+            "handleId": "end",
+            "point": [
+              0.41,
+              0.79
+            ],
+            "distance": 16
+          }
+        }
+      },
+      "d455c316-cf3c-4870-0bb1-275f822a334a": {
+        "id": "d455c316-cf3c-4870-0bb1-275f822a334a",
+        "name": "Sponsors",
+        "childIndex": 3,
+        "shapes": {
+          "8a24a97c-fe6d-45be-1502-79570d157d83": {
+            "id": "8a24a97c-fe6d-45be-1502-79570d157d83",
+            "type": "rectangle",
+            "name": "Rectangle",
+            "parentId": "d455c316-cf3c-4870-0bb1-275f822a334a",
+            "childIndex": 1,
+            "point": [
+              2416,
+              824
+            ],
+            "size": [
+              256,
+              320
+            ],
+            "rotation": 0,
+            "style": {
+              "color": "lightGray",
+              "size": "small",
+              "isFilled": false,
+              "dash": "draw",
+              "scale": 1,
+              "font": "script"
+            },
+            "label": "",
+            "labelPoint": [
+              0.5,
+              0.5
+            ]
+          },
+          "c446f511-7dd2-4516-2f5d-9e8c4fb4682b": {
+            "id": "c446f511-7dd2-4516-2f5d-9e8c4fb4682b",
+            "type": "text",
+            "name": "Text",
+            "parentId": "d455c316-cf3c-4870-0bb1-275f822a334a",
+            "childIndex": 2,
+            "point": [
+              2432,
+              856
+            ],
+            "rotation": 0,
+            "text": "Sponsors Repo",
+            "style": {
+              "color": "lightGray",
+              "size": "small",
+              "isFilled": false,
+              "dash": "draw",
+              "scale": 0.9485294117647058,
+              "font": "script",
+              "textAlign": "middle"
+            }
+          },
+          "f14d85ef-fd09-4138-05d6-de4a457df6c5": {
+            "id": "f14d85ef-fd09-4138-05d6-de4a457df6c5",
+            "type": "text",
+            "name": "Text",
+            "parentId": "d455c316-cf3c-4870-0bb1-275f822a334a",
+            "childIndex": 3,
+            "point": [
+              2480,
+              912
+            ],
+            "rotation": 0,
+            "text": "Sponsors.json",
+            "style": {
+              "color": "lightGray",
+              "size": "small",
+              "isFilled": false,
+              "dash": "draw",
+              "scale": 0.9485294117647058,
+              "font": "script",
+              "textAlign": "middle"
+            }
+          },
+          "736c0e87-df18-4490-1a24-a882007ed4bd": {
+            "id": "736c0e87-df18-4490-1a24-a882007ed4bd",
+            "type": "text",
+            "name": "Text",
+            "parentId": "d455c316-cf3c-4870-0bb1-275f822a334a",
+            "childIndex": 4,
+            "point": [
+              2480,
+              1008
+            ],
+            "rotation": 0,
+            "text": "Sponsors.png",
+            "style": {
+              "color": "lightGray",
+              "size": "small",
+              "isFilled": false,
+              "dash": "draw",
+              "scale": 0.9485294117647058,
+              "font": "script",
+              "textAlign": "middle"
+            }
+          },
+          "740a5b23-e37c-487b-3430-4d6d60fa61d7": {
+            "id": "740a5b23-e37c-487b-3430-4d6d60fa61d7",
+            "type": "text",
+            "name": "Text",
+            "parentId": "d455c316-cf3c-4870-0bb1-275f822a334a",
+            "childIndex": 5,
+            "point": [
+              2480,
+              960
+            ],
+            "rotation": 0,
+            "text": "Sponsors.svg",
+            "style": {
+              "color": "lightGray",
+              "size": "small",
+              "isFilled": false,
+              "dash": "draw",
+              "scale": 0.9485294117647058,
+              "font": "script",
+              "textAlign": "middle"
+            }
+          },
+          "8c131ca0-3938-4036-10b1-383f03ef98a2": {
+            "id": "8c131ca0-3938-4036-10b1-383f03ef98a2",
+            "type": "text",
+            "name": "Text",
+            "parentId": "d455c316-cf3c-4870-0bb1-275f822a334a",
+            "childIndex": 6,
+            "point": [
+              2488,
+              1056
+            ],
+            "rotation": 0,
+            "text": "...",
+            "style": {
+              "color": "lightGray",
+              "size": "small",
+              "isFilled": false,
+              "dash": "draw",
+              "scale": 0.9485294117647058,
+              "font": "script",
+              "textAlign": "middle"
+            }
+          },
+          "46c61d25-b77e-4040-393b-8096f93193a1": {
+            "id": "46c61d25-b77e-4040-393b-8096f93193a1",
+            "type": "rectangle",
+            "name": "Rectangle",
+            "parentId": "d455c316-cf3c-4870-0bb1-275f822a334a",
+            "childIndex": 7,
+            "point": [
+              2096,
+              1296
+            ],
+            "size": [
+              264,
+              240
+            ],
+            "rotation": 0,
+            "style": {
+              "color": "lightGray",
+              "size": "small",
+              "isFilled": false,
+              "dash": "draw",
+              "scale": 1,
+              "font": "script"
+            },
+            "label": "README.md",
+            "labelPoint": [
+              0.5,
+              0.5
+            ]
+          },
+          "cd6771ff-10a2-4b32-239e-7b31647e0586": {
+            "id": "cd6771ff-10a2-4b32-239e-7b31647e0586",
+            "type": "text",
+            "name": "Text",
+            "parentId": "d455c316-cf3c-4870-0bb1-275f822a334a",
+            "childIndex": 8,
+            "point": [
+              2112,
+              1320
+            ],
+            "rotation": 0,
+            "text": "Repo 1",
+            "style": {
+              "color": "lightGray",
+              "size": "small",
+              "isFilled": false,
+              "dash": "draw",
+              "scale": 1,
+              "font": "script",
+              "textAlign": "middle"
+            }
+          },
+          "3435df67-fcef-478b-0c07-67610d2b9864": {
+            "id": "3435df67-fcef-478b-0c07-67610d2b9864",
+            "type": "rectangle",
+            "name": "Rectangle",
+            "parentId": "d455c316-cf3c-4870-0bb1-275f822a334a",
+            "childIndex": 9,
+            "point": [
+              2416,
+              1296
+            ],
+            "size": [
+              264,
+              240
+            ],
+            "rotation": 0,
+            "style": {
+              "color": "lightGray",
+              "size": "small",
+              "isFilled": false,
+              "dash": "draw",
+              "scale": 1,
+              "font": "script"
+            },
+            "label": "README.md",
+            "labelPoint": [
+              0.5,
+              0.5
+            ]
+          },
+          "8a650e8e-13b2-4fee-20c9-2ca073800c15": {
+            "id": "8a650e8e-13b2-4fee-20c9-2ca073800c15",
+            "type": "text",
+            "name": "Text",
+            "parentId": "d455c316-cf3c-4870-0bb1-275f822a334a",
+            "childIndex": 10,
+            "point": [
+              2431,
+              1320
+            ],
+            "rotation": 0,
+            "text": "Repo 2",
+            "style": {
+              "color": "lightGray",
+              "size": "small",
+              "isFilled": false,
+              "dash": "draw",
+              "scale": 1,
+              "font": "script",
+              "textAlign": "middle"
+            }
+          },
+          "1183dec3-7183-4d6d-24d3-499eb007038a": {
+            "id": "1183dec3-7183-4d6d-24d3-499eb007038a",
+            "type": "rectangle",
+            "name": "Rectangle",
+            "parentId": "d455c316-cf3c-4870-0bb1-275f822a334a",
+            "childIndex": 11,
+            "point": [
+              2744,
+              1296
+            ],
+            "size": [
+              264,
+              240
+            ],
+            "rotation": 0,
+            "style": {
+              "color": "lightGray",
+              "size": "small",
+              "isFilled": false,
+              "dash": "draw",
+              "scale": 1,
+              "font": "script"
+            },
+            "label": "README.md",
+            "labelPoint": [
+              0.5,
+              0.5
+            ]
+          },
+          "bf0d2f1b-e4e2-455c-18f4-4d3a09785973": {
+            "id": "bf0d2f1b-e4e2-455c-18f4-4d3a09785973",
+            "type": "text",
+            "name": "Text",
+            "parentId": "d455c316-cf3c-4870-0bb1-275f822a334a",
+            "childIndex": 12,
+            "point": [
+              2759,
+              1320
+            ],
+            "rotation": 0,
+            "text": "Repo 3",
+            "style": {
+              "color": "lightGray",
+              "size": "small",
+              "isFilled": false,
+              "dash": "draw",
+              "scale": 1,
+              "font": "script",
+              "textAlign": "middle"
+            }
+          },
+          "b009e58a-11da-41ce-38bb-9e7246a99643": {
+            "id": "b009e58a-11da-41ce-38bb-9e7246a99643",
+            "type": "arrow",
+            "name": "Arrow",
+            "parentId": "d455c316-cf3c-4870-0bb1-275f822a334a",
+            "childIndex": 13,
+            "point": [
+              2347.41,
+              1160
+            ],
+            "rotation": 0,
+            "bend": 0,
+            "handles": {
+              "start": {
+                "id": "start",
+                "index": 0,
+                "point": [
+                  0,
+                  136
+                ],
+                "canBind": true,
+                "bindingId": "e0919a48-bf80-4b35-0755-309f0228abf3"
+              },
+              "end": {
+                "id": "end",
+                "index": 1,
+                "point": [
+                  135.33,
+                  0
+                ],
+                "canBind": true,
+                "bindingId": "567179a0-2b9a-45f6-23b3-907aceedd917"
+              },
+              "bend": {
+                "id": "bend",
+                "index": 2,
+                "point": [
+                  67.67,
+                  68
+                ]
+              }
+            },
+            "decorations": {
+              "end": "arrow"
+            },
+            "style": {
+              "color": "lightGray",
+              "size": "small",
+              "isFilled": false,
+              "dash": "draw",
+              "scale": 1,
+              "font": "script"
+            },
+            "label": "",
+            "labelPoint": [
+              0.5,
+              0.5
+            ]
+          },
+          "592ee17b-515a-477c-2046-553d9b65d89f": {
+            "id": "592ee17b-515a-477c-2046-553d9b65d89f",
+            "type": "arrow",
+            "name": "Arrow",
+            "parentId": "d455c316-cf3c-4870-0bb1-275f822a334a",
+            "childIndex": 14,
+            "point": [
+              2545.63,
+              1160
+            ],
+            "rotation": 0,
+            "bend": 0,
+            "handles": {
+              "start": {
+                "id": "start",
+                "index": 0,
+                "point": [
+                  1.26,
+                  136
+                ],
+                "canBind": true,
+                "bindingId": "249266cc-8b82-404b-14e1-8a8fe2a3ef93"
+              },
+              "end": {
+                "id": "end",
+                "index": 1,
+                "point": [
+                  0,
+                  0
+                ],
+                "canBind": true,
+                "bindingId": "14f3584f-b6f4-4efb-2967-31367c69ebac"
+              },
+              "bend": {
+                "id": "bend",
+                "index": 2,
+                "point": [
+                  0.63,
+                  68
+                ]
+              }
+            },
+            "decorations": {
+              "end": "arrow"
+            },
+            "style": {
+              "color": "lightGray",
+              "size": "small",
+              "isFilled": false,
+              "dash": "draw",
+              "scale": 1,
+              "font": "script"
+            },
+            "label": "",
+            "labelPoint": [
+              0.5,
+              0.5
+            ]
+          },
+          "5d249caa-fbe7-4620-386f-db21568c1042": {
+            "id": "5d249caa-fbe7-4620-386f-db21568c1042",
+            "type": "arrow",
+            "name": "Arrow",
+            "parentId": "d455c316-cf3c-4870-0bb1-275f822a334a",
+            "childIndex": 15,
+            "point": [
+              2598.99,
+              1160
+            ],
+            "rotation": 0,
+            "bend": 0,
+            "handles": {
+              "start": {
+                "id": "start",
+                "index": 0,
+                "point": [
+                  147.16,
+                  136
+                ],
+                "canBind": true,
+                "bindingId": "dcc1296c-74f5-42ab-2be4-f59f96da25ab"
+              },
+              "end": {
+                "id": "end",
+                "index": 1,
+                "point": [
+                  0,
+                  0
+                ],
+                "canBind": true,
+                "bindingId": "53ff1955-4542-444a-2979-0e8a0b0f0ee1"
+              },
+              "bend": {
+                "id": "bend",
+                "index": 2,
+                "point": [
+                  73.58,
+                  68
+                ]
+              }
+            },
+            "decorations": {
+              "end": "arrow"
+            },
+            "style": {
+              "color": "lightGray",
+              "size": "small",
+              "isFilled": false,
+              "dash": "draw",
+              "scale": 1,
+              "font": "script"
+            },
+            "label": "",
+            "labelPoint": [
+              0.5,
+              0.5
+            ]
+          }
+        },
+        "bindings": {
+          "e0919a48-bf80-4b35-0755-309f0228abf3": {
+            "id": "e0919a48-bf80-4b35-0755-309f0228abf3",
+            "type": "arrow",
+            "fromId": "b009e58a-11da-41ce-38bb-9e7246a99643",
+            "toId": "46c61d25-b77e-4040-393b-8096f93193a1",
+            "handleId": "start",
+            "point": [
+              0.5,
+              0.5
+            ],
+            "distance": 16
+          },
+          "567179a0-2b9a-45f6-23b3-907aceedd917": {
+            "id": "567179a0-2b9a-45f6-23b3-907aceedd917",
+            "type": "arrow",
+            "fromId": "b009e58a-11da-41ce-38bb-9e7246a99643",
+            "toId": "8a24a97c-fe6d-45be-1502-79570d157d83",
+            "handleId": "end",
+            "point": [
+              0.64,
+              0.71
+            ],
+            "distance": 16
+          },
+          "249266cc-8b82-404b-14e1-8a8fe2a3ef93": {
+            "id": "249266cc-8b82-404b-14e1-8a8fe2a3ef93",
+            "type": "arrow",
+            "fromId": "592ee17b-515a-477c-2046-553d9b65d89f",
+            "toId": "3435df67-fcef-478b-0c07-67610d2b9864",
+            "handleId": "start",
+            "point": [
+              0.5,
+              0.5
+            ],
+            "distance": 16
+          },
+          "14f3584f-b6f4-4efb-2967-31367c69ebac": {
+            "id": "14f3584f-b6f4-4efb-2967-31367c69ebac",
+            "type": "arrow",
+            "fromId": "592ee17b-515a-477c-2046-553d9b65d89f",
+            "toId": "8a24a97c-fe6d-45be-1502-79570d157d83",
+            "handleId": "end",
+            "point": [
+              0.5,
+              0.5
+            ],
+            "distance": 16
+          },
+          "dcc1296c-74f5-42ab-2be4-f59f96da25ab": {
+            "id": "dcc1296c-74f5-42ab-2be4-f59f96da25ab",
+            "type": "arrow",
+            "fromId": "5d249caa-fbe7-4620-386f-db21568c1042",
+            "toId": "1183dec3-7183-4d6d-24d3-499eb007038a",
+            "handleId": "start",
+            "point": [
+              0.5,
+              0.5
+            ],
+            "distance": 16
+          },
+          "53ff1955-4542-444a-2979-0e8a0b0f0ee1": {
+            "id": "53ff1955-4542-444a-2979-0e8a0b0f0ee1",
+            "type": "arrow",
+            "fromId": "5d249caa-fbe7-4620-386f-db21568c1042",
+            "toId": "8a24a97c-fe6d-45be-1502-79570d157d83",
+            "handleId": "end",
+            "point": [
+              0.4,
+              0.78
+            ],
+            "distance": 16
+          }
+        }
+      }
+    },
+    "pageStates": {
+      "8da77900-f939-4604-373e-1c390dd73bb0": {
+        "id": "8da77900-f939-4604-373e-1c390dd73bb0",
+        "selectedIds": [],
+        "camera": {
+          "point": [
+            384.06,
+            -288
+          ],
+          "zoom": 0.43233213679449595
+        },
+        "editingId": null
+      },
+      "d455c316-cf3c-4870-0bb1-275f822a334a": {
+        "id": "d455c316-cf3c-4870-0bb1-275f822a334a",
+        "selectedIds": [],
+        "camera": {
+          "point": [
+            -1280,
+            -639
+          ],
+          "zoom": 1
+        }
+      }
+    },
+    "assets": {}
+  },
+  "assets": {}
+}
