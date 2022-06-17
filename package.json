@@ -1,0 +1,14 @@
+{
+  "name": "sponsors",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/dohooo/sponsors.git",
+  "author": "赵東澔 <zhaodonghao586@outlook.com>",
+  "license": "MIT",
+  "dependencies": {
+    "sponsorkit": "^0.4.1"
+  },
+  "scripts": {
+    "update": "npx sponsorkit -f -w 800 --dir . && npx sponsorkit -f -w 1300 --name sponsors.wide --dir ."
+  }
+}
