@@ -13,6 +13,7 @@
     "monthlyDollars": 8,
     "privacyLevel": "PUBLIC",
     "tierName": "$8 a month",
-    "createdAt": "2022-03-27T09:02:13Z"
+    "createdAt": "2022-03-27T09:02:13Z",
+    "provider": "github"
   }
 ]
