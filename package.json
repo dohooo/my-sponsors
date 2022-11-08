@@ -9,6 +9,6 @@
     "sponsorkit": "^0.6.0"
   },
   "scripts": {
-    "update": "sponsorkit -f -w 800 --dir . && sponsorkit -f -w 1300 --name sponsors.wide --dir ."
+    "update": "npx sponsorkit -f -w 800 --dir . && npx sponsorkit -f -w 1300 --name sponsors.wide --dir ."
   }
 }
