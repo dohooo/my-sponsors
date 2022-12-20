@@ -6,6 +6,7 @@
   "author": "赵東澔 <zhaodonghao586@outlook.com>",
   "license": "MIT",
   "devDependencies": {
+    "@types/node": "^18.11.17",
     "sponsorkit": "^0.6.0"
   },
   "scripts": {

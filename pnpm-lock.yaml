@@ -1,15 +1,21 @@
 lockfileVersion: 5.4
 
 specifiers:
+  '@types/node': ^18.11.17
   sponsorkit: ^0.6.0
 
 devDependencies:
+  '@types/node': 18.11.17
   sponsorkit: 0.6.0
 
 packages:
 
   /@antfu/utils/0.5.2:
     resolution: {integrity: sha512-CQkeV+oJxUazwjlHD0/3ZD08QWKuGQkhnrKo3e6ly5pd48VUpXbb77q0xMU4+vc2CkJnDS02Eq/M9ugyX20XZA==}
+    dev: true
+
+  /@types/node/18.11.17:
+    resolution: {integrity: sha512-HJSUJmni4BeDHhfzn6nF0sVmd1SMezP7/4F0Lq+aXzmp2xm9O7WXrUtHW/CHlYVtZUbByEvWidHqRtcJXGF2Ng==}
     dev: true
 
   /ajv/6.12.6:
