@@ -1,4 +1,4 @@
-import { defineConfig, fetchGitHubSponsors, presets } from 'sponsorkit'
+import { defineConfig, presets } from 'sponsorkit'
 
 export default defineConfig({
     includePrivate: true,
@@ -11,26 +11,6 @@ export default defineConfig({
         {
             title: 'Backers',
             preset: presets.small,
-            compose: async (composer, sponsors, config) => {
-                if (config.filter?.({ monthlyDollars: Infinity } as any, []) !== false) {
-                    composer
-                        .addSpan(20)
-                        .addText('Backers', 'sponsorkit-tier-title')
-                        .addSpan(10)
-                        .addSponsorGrid(sponsors.filter(s => s.sponsor.name !== 'Reid Zhang'), presets.small)
-                        .addSpan(10)
-                }
-            },
-            composeBefore: async (composer, sponsors, config) => {
-                if (config.filter?.({ monthlyDollars: Infinity } as any, []) !== false) {
-                    composer
-                        .addSpan(20)
-                        .addText('Special Sponsor', 'sponsorkit-tier-title')
-                        .addSpan(10)
-                        .addSponsorGrid(sponsors.filter(s => s.sponsor.name === 'Reid Zhang'), presets.large)
-                        .addSpan(30)
-                }
-            }
         },
         {
             title: 'Sponsors',
