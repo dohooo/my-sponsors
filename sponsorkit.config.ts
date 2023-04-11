@@ -1,4 +1,11 @@
+import { readFileSync } from 'fs'
+import path from 'path'
 import { defineConfig, presets } from 'sponsorkit'
+
+const RSS3_LOGO = (width: number, y: number) =>
+  readFileSync(path.resolve(__dirname, './logo/crossbell.svg'), 'utf-8')
+    .replace('${x}', String((width - 273) / 2))
+    .replace('${y}', String(y))
 
 export default defineConfig({
     includePrivate: true,
@@ -43,7 +50,19 @@ export default defineConfig({
         },
         {
             title: 'Special Sponsor',
-            monthlyDollars: Infinity
-        },
+            monthlyDollars: Infinity,
+            composeAfter(compose, _, config) {
+              if (
+                config.filter?.({ monthlyDollars: Infinity } as any, []) !== false
+              ) {
+                compose
+                  .addSpan(20)
+                  .addText('Special Sponsor', 'sponsorkit-tier-title')
+                  .addSpan(10)
+                  .addRaw(RSS3_LOGO(config.width!, compose.height))
+                  .addSpan(100)
+              }
+            },
+          },
     ]
 })
