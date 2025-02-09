@@ -7,9 +7,10 @@
   "license": "MIT",
   "devDependencies": {
     "@types/node": "^18.11.17",
-    "sponsorkit": "^0.6.0"
+    "sponsorkit": "^0.16.2"
   },
   "scripts": {
     "update": "npx sponsorkit -f -w=800 --dir=. && npx sponsorkit -f -w=1300 --dir=. --name=sponsors.wide"
-  }
+  },
+  "packageManager": "pnpm@9.15.4+sha512.b2dc20e2fc72b3e18848459b37359a32064663e5627a51e4c74b2c29dd8e8e0491483c3abb40789cfd578bf362fb6ba8261b05f0387d76792ed6e23ea3b1b6a0"
 }
